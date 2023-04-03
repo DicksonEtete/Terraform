@@ -1,10 +1,4 @@
-# New VPCs
-
-When you need to create the VPCs and then create a peering connection in the same terraform apply.
-
-## Usage
-
-To run this example you need to execute:
+To run script:
 
 ```bash
 $ terraform init
